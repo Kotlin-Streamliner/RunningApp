@@ -1,8 +1,9 @@
-package com.thisisstreamliner.runningapp
+package com.thisisstreamliner.runningapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import com.thisisstreamliner.runningapp.R
 import com.thisisstreamliner.runningapp.data.RunDAO
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
